@@ -6,7 +6,7 @@ export default function Login(){
  
        <Text>
       
-       Só alegria
+       Só alegria?
     
        </Text>
 
